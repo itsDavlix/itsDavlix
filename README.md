@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hola me llamo David Espinoza estudiante de ing en sistemas apasionado por la tecnologia y programacion siempre dispuesto a aprender y mejorar</p>
+<p align="left">Estudiante de ing en sistemas apasionado por la tecnologia y programacion siempre dispuesto a aprender y mejorar</p>
 
 ###
 
